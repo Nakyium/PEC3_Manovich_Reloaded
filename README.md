@@ -3,10 +3,10 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: Gina Viñas Untoria
+**Autor**: Gina Viñas Untoria
 
 
-Fecha: 25/05/2023
+**Fecha**: 25/05/2023
 
 ![Cultura Digital](202172811035.png) 
 
@@ -31,7 +31,7 @@ La multimedia combina diferentes tipos de medio en un mismo contexto, pero sin g
 Por otro lado, la remediación implica la adaptación de un medio existente para construir un nuevo medio, conservando algunas características pero también introduciendo cambios y novedades.
 
 
-## Re-descubriendo la hibridacion: Genshin Impact
+## Re-descubriendo la hibridacion: <span style="color: green;">Genshin Impact</span>
 
 ***Genshin Impact*** es un **videojuego de rol, aventura, y exploración en mundo abierto** desarrollado por **Mihoyo** para consolas, móviles y PC. Ofrece diferentes maneras de navegar e interactuar con el medio. Como viajero de otro mundo, te embarcas en una aventura para encontrar a la hermana que perdiste hace mucho tiempo, mientras descubres los misterios de ***Teyvat***, del personaje principal y los que conforman la historia. 
 
@@ -48,7 +48,7 @@ El juego utiliza algoritmos y estructuras de datos para generar y controlar dist
 La estética en ***Genshin Impact*** se caracteriza por ser híbrida, combina elementos de diseño de personajes y escenarios de estilo anime con gráficos en 3D, logrando una estética visual única que fusiona diferentes influencias estilísticas. 
 
 
-## Re-descubriendo la hibridacion: League of Legends
+## Re-descubriendo la hibridacion: <span style="color: red;">League of Legends</span>
 
 ***League of Legends*** es un **videojuego multijugador de arena de batalla en línea** desarrollado y publicado por **Riot Games**. Combina elementos de juegos de estrategia en tiempo real, los juegos de rol en línea y los eSports o deportes electrónicos.
 

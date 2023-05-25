@@ -88,15 +88,20 @@ La estética en ***League of Legends*** se caracteriza por combinar elementos vi
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-ADELL, Ferran. Remediación, multimedia e hibridación de los medios. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/
+* ADELL, Ferran. Remediación, multimedia e hibridación de los medios. Disponible en: (http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+* Hibridación: https://www.diggitmagazine.com/wiki/hybrid-media-system 
+* Genshin Impact: https://genshin.hoyoverse.com/es/game
+* Genshin Impact: https://es.wikipedia.org/wiki/Genshin_Impact
+* League of Legends (MOBA): https://es.wikipedia.org/wiki/Videojuego_multijugador_de_arena_de_batalla_en_l%C3%ADnea
+* League of Legends (tabla): https://earlygame.com/es/lol/ranking-sistema 
 
 ### Recursos
 
-* Las tres primeras imágenes, autor: Gina Viñas Untoria
+* Las tres primeras imágenes, autor: **Gina Viñas Untoria**
 
- https://pixabay.com/es/illustrations/league-of-legends-dise%c3%b1o-de-campe%c3%b3n-7845911/ 
+* **Pixabay** : https://pixabay.com/es/illustrations/league-of-legends-dise%c3%b1o-de-campe%c3%b3n-7845911/ 
 
-https://www.freepik.com/free-photo/man-neon-suit-sits-chair-with-neon-sign-that-says-word-it_41595152.htm#query=league%20of%20legends&position=34&from_view=search&track=ais
+* **Freepik** : https://www.freepik.com/free-photo/man-neon-suit-sits-chair-with-neon-sign-that-says-word-it_41595152.htm#query=league%20of%20legends&position=34&from_view=search&track=ais
 
 ----
 

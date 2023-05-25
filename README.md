@@ -8,7 +8,7 @@ Autor:
 
 Fecha: 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](202172811035.png) 
 
 
 
@@ -42,6 +42,8 @@ Los personajes principales de esta historia tienen habilidades, personalidades y
 Según Manovich, Genshin Impact se considera un caso de hibridación de medios más que de multimedia y una hibridación tanto de interfaz de usuario como de manipulación de datos. Aunque el juego ofrece varios tipos de medios, como gráficos, sonido y texto, la hibridación de este se produce a través de la fusión de elementos de juegos de rol, anime y gacha en la interfaz de usuario para una experiencia de navegación e interacción nueva e integrada. 
 
 El juego utiliza algoritmos y estructuras de datos para generar y controlar distintos aspectos del mundo del juego, como la generación de misiones, terrenos, enemigos, sistemas de combate y eventos. Estos permiten simplificar y controlar modelos complejos dentro del juego. 
+
+![Cultura Digital](202163012507.png) 
 
 La estética en Genshin Impact se caracteriza por ser híbrida, combina elementos de diseño de personajes y escenarios de estilo anime con gráficos en 3D, logrando una estética visual única que fusiona diferentes influencias estilísticas. 
 

@@ -92,8 +92,12 @@ ADELL, Ferran. Remediación, multimedia e hibridación de los medios. Disponible
 
 ### Recursos
 
-* -Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
--ADELL, Ferran. Remediación, multimedia e hibridación de los medios. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/
+* Las tres primeras imágenes, autor: Gina Viñas Untoria
+
+ https://pixabay.com/es/illustrations/league-of-legends-dise%c3%b1o-de-campe%c3%b3n-7845911/ 
+
+https://www.freepik.com/free-photo/man-neon-suit-sits-chair-with-neon-sign-that-says-word-it_41595152.htm#query=league%20of%20legends&position=34&from_view=search&track=ais
+
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 

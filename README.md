@@ -48,7 +48,7 @@ El juego utiliza algoritmos y estructuras de datos para generar y controlar dist
 La estética en ***Genshin Impact*** se caracteriza por ser híbrida, combina elementos de diseño de personajes y escenarios de estilo anime con gráficos en 3D, logrando una estética visual única que fusiona diferentes influencias estilísticas. 
 
 
-## Re-descubriendo la hibridacion: <span style="color: red;">League of Legends</span>
+## Re-descubriendo la hibridacion: League of Legends
 
 ***League of Legends*** es un **videojuego multijugador de arena de batalla en línea** desarrollado y publicado por **Riot Games**. Combina elementos de juegos de estrategia en tiempo real, los juegos de rol en línea y los eSports o deportes electrónicos.
 
@@ -56,7 +56,15 @@ En las partidas normales y de competición, cada equipo está compuesto por cinc
 
 ![Cultura Digital](https://img.freepik.com/free-photo/man-neon-suit-sits-chair-with-neon-sign-that-says-word-it_188544-27011.jpg?w=1380&t=st=1685021130~exp=1685021730~hmac=6e184946fa576dceacb98728d2379640982b940c232468385922b059212ba49e) 
 
-Las partidas clasificatorias (rankeds) en ***League of Legends*** son un modo de juego competitivo en el que los jugadores pueden enfrentarse entre sí para subir en el sistema de clasificación. Consta de distintas divisiones (como Hierro, Bronce, Plata, Oro, Platino, Diamante, Maestro, Gran Maestro y Challenger), cada una con diferentes rangos. Los jugadores están más enfocados en ganar y mejorar su clasificación. Esto implica un mayor nivel de estrategia, comunicación y coordinación con el equipo para tener éxito, ofreciendo la oportunidad de alcanzar rangos más altos y recibir recompensas al final de la temporada. 
+Las partidas clasificatorias (rankeds) en ***League of Legends*** son un modo de juego competitivo en el que los jugadores pueden enfrentarse entre sí para subir en el sistema de clasificación. Los jugadores están más enfocados en ganar y mejorar su clasificación. Esto implica un mayor nivel de estrategia, comunicación y coordinación con el equipo para tener éxito, ofreciendo la oportunidad de alcanzar rangos más altos y recibir recompensas al final de la temporada. 
+
+Consta de distintas divisiones (como Hierro, Bronce, Plata, Oro, Platino, Diamante, Maestro, Gran Maestro y Challenger), cada una con diferentes rangos
+
+| Número |       Ítem       |
+|:------:|:----------------:|
+|   Challenger    | primer elemento  |
+|   Gran Maestro   | segundo elemento |
+|   Maestro    | tercer elemento  |
 
 El juego utiliza algoritmos y estructuras de datos para gestionar la jugabilidad. Desde cómo se desplazan los personajes hasta cómo interactúan con el entorno y otros jugadores. También se encargan de equilibrar los personajes y sus habilidades, asegurándose de que ningún campeón sea demasiado poderoso o demasiado débil en comparación con los demás, esto implica el cálculo de daño, tiempos de reutilización, alcance, efectos especiales y más. También se controlan eventos que ocurren dentro del juego, como la aparición de monstruos neutrales en la jungla, la generación de oleadas de súbditos en las líneas, la activación de habilidades especiales, entre otras.
 

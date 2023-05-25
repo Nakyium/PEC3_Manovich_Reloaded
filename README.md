@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: <span style="color: #0969DA;">Visionando el futuro con las gafas de Manovich </span>
 
 ### Recurso de aprendizaje de Cultura Digital 
 

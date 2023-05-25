@@ -58,7 +58,7 @@ En las partidas normales y de competición, cada equipo está compuesto por cinc
 
 Las partidas clasificatorias (rankeds) en ***League of Legends*** son un modo de juego competitivo en el que los jugadores pueden enfrentarse entre sí para subir en el sistema de clasificación. Los jugadores están más enfocados en ganar y mejorar su clasificación. Esto implica un mayor nivel de estrategia, comunicación y coordinación con el equipo para tener éxito, ofreciendo la oportunidad de alcanzar rangos más altos y recibir recompensas al final de la temporada. 
 
-Consta de distintas divisiones (como Hierro, Bronce, Plata, Oro, Platino, Diamante, Maestro, Gran Maestro y Challenger), cada una con diferentes rangos
+Consta de distintas divisiones, cada una con diferentes rangos
 
 | División |       División%       |
 |:------:|:----------------:|

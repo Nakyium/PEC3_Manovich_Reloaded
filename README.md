@@ -60,11 +60,18 @@ Las partidas clasificatorias (rankeds) en ***League of Legends*** son un modo de
 
 Consta de distintas divisiones (como Hierro, Bronce, Plata, Oro, Platino, Diamante, Maestro, Gran Maestro y Challenger), cada una con diferentes rangos
 
-| Número |       Ítem       |
+| División |       División%       |
 |:------:|:----------------:|
-|   Challenger    | primer elemento  |
-|   Gran Maestro   | segundo elemento |
-|   Maestro    | tercer elemento  |
+|   Challenger    | 0.021% |
+|   Gran Maestro   | 0.049% |
+|   Maestro    | 0.50% |
+|   Diamante    | 3%  |
+|   Platino   | 11% |
+|   Oro    | 24%  |
+|   Plata    | 29% |
+|   Bronce    | 24%  |
+|   Hierro    | 5.9%  |
+
 
 El juego utiliza algoritmos y estructuras de datos para gestionar la jugabilidad. Desde cómo se desplazan los personajes hasta cómo interactúan con el entorno y otros jugadores. También se encargan de equilibrar los personajes y sus habilidades, asegurándose de que ningún campeón sea demasiado poderoso o demasiado débil en comparación con los demás, esto implica el cálculo de daño, tiempos de reutilización, alcance, efectos especiales y más. También se controlan eventos que ocurren dentro del juego, como la aparición de monstruos neutrales en la jungla, la generación de oleadas de súbditos en las líneas, la activación de habilidades especiales, entre otras.
 

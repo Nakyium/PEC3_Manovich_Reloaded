@@ -17,7 +17,11 @@
 
 La hibridación de medios es la convergencia de distintos tipos de medios que coexisten, y aparte forman un sistema que evoluciona a través de interacciones de medios más antiguas y más nuevas. 
 
-Los medios híbridos en el contexto de los videojuegos son un buen ejemplo de ello, ya que fusionan diferentes tecnologías y elementos de diseño para crear experiencias interactivas únicas. Los videojuegos combinan elementos visuales, narrativos, de sonido y mecánicas de juego para ofrecer una forma de medio híbrido que permite a los jugadores sumergirse en mundos virtuales y participar activamente en la historia y la jugabilidad.
+Según Manovich, el software y el ordenador son herramientas fundamentales para la hibridación de medios. 
+
+>> “Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos.” (Manovich, 2013)
+
+Los medios híbridos en el contexto de los videojuegos son un buen ejemplo de ello, ya que fusionan diferentes tecnologías y elementos de diseño para crear experiencias interactivas únicas, donde el software y los ordenadores desempeñan un papel fundamental. Los videojuegos combinan elementos visuales, narrativos, de sonido y mecánicas de juego para ofrecer una forma de medio híbrido que permite a los jugadores sumergirse en mundos virtuales y participar activamente en la historia y la jugabilidad.
 
 Por ello en este ensayo presentaré dos videojuegos que pertenecen a estos casos de hibridación del software, ***Genshin Impact*** y ***League of Legends***.
 
@@ -27,6 +31,8 @@ Por ello en este ensayo presentaré dos videojuegos que pertenecen a estos casos
 Una hibridación se reconoce porque introduce nuevas formas de representar el mundo, introduciendo innovaciones y proporcionando diferentes formas de interacción y navegación.
 
 La multimedia combina diferentes tipos de medio en un mismo contexto, pero sin generar una fusión o interacción entre ellos, por ejemplo cada uno necesita abrir su propio recurso. En cambio, en la hibridación se da una fusión entre los elementos e interfaces, generando una experiencia nueva, diferente a la experimentación de los elementos por separado.
+
+>> “El resultado de la hibridación no es tan solo la suma mecánica de componentes previos, sino una nueva «especie»” (Manovich, 2013)
 
 Por otro lado, la remediación implica la adaptación de un medio existente para construir un nuevo medio, conservando algunas características pero también introduciendo cambios y novedades.
 

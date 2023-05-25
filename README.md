@@ -88,8 +88,13 @@ La estética en ***League of Legends*** se caracteriza por combinar elementos vi
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+ADELL, Ferran. Remediación, multimedia e hibridación de los medios. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/
 
+### Recursos
 
+* -Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+-ADELL, Ferran. Remediación, multimedia e hibridación de los medios. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+

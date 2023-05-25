@@ -54,7 +54,9 @@ Las partidas clasificatorias (rankeds) en League of Legends son un modo de juego
 
 El juego utiliza algoritmos y estructuras de datos para gestionar la jugabilidad. Desde cómo se desplazan los personajes hasta cómo interactúan con el entorno y otros jugadores. También se encargan de equilibrar los personajes y sus habilidades, asegurándose de que ningún campeón sea demasiado poderoso o demasiado débil en comparación con los demás, esto implica el cálculo de daño, tiempos de reutilización, alcance, efectos especiales y más. También se controlan eventos que ocurren dentro del juego, como la aparición de monstruos neutrales en la jungla, la generación de oleadas de súbditos en las líneas, la activación de habilidades especiales, entre otras.
 
-La estética en League of Legends se caracteriza por combinar elementos visuales de fantasía, mitología, ciencia ficción y arte de cómic para crear una estética visual única que refleja el mundo y los personajes del juego. ![Cultura Digital](https://pixabay.com/get/g918f02d2d7fbffac1283e502c433d468f915a470330034d42f66f0437ea68cb5af5a22bc1225865d9cb68cdcb1f9d5a2_640.jpg) 
+![Cultura Digital](https://pixabay.com/get/g918f02d2d7fbffac1283e502c433d468f915a470330034d42f66f0437ea68cb5af5a22bc1225865d9cb68cdcb1f9d5a2_640.jpg) 
+
+La estética en League of Legends se caracteriza por combinar elementos visuales de fantasía, mitología, ciencia ficción y arte de cómic para crear una estética visual única que refleja el mundo y los personajes del juego. 
 
 League of Legends es uno de los juego más populares en el ámbito de los esports, donde equipos profesionales compiten en partidas estratégicas para ganar torneos y campeonatos regionales e internacionales. El juego ha creado una comunidad global de jugadores reconocidos y admirados por una comunidad de espectadores apasionados, y su escena competitiva sigue creciendo y evolucionando.
 

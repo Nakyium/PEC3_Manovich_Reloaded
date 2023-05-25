@@ -37,7 +37,7 @@ Genshin Impact es un videojuego de rol, aventura, y exploración en mundo abiert
 
 Los personajes principales de esta historia tienen habilidades, personalidades y estilos de combate únicos, y los puedes conseguir junto a armas para ellos mediante la mecánica de monetización del gacha, una moneda virtual. El juego también cuenta con un modo multijugador donde poder luchar contra monstruos, hacer misiones y explorar el mundo juntos a otros jugadores.
 
-![Cultura Digital](C:\Program Files\Genshin Impact\Genshin Impact game\ScreenShot\2021717143012.png) 
+![Cultura Digital](2021717143012.png) 
 
 Según Manovich, Genshin Impact se considera un caso de hibridación de medios más que de multimedia y una hibridación tanto de interfaz de usuario como de manipulación de datos. Aunque el juego ofrece varios tipos de medios, como gráficos, sonido y texto, la hibridación de este se produce a través de la fusión de elementos de juegos de rol, anime y gacha en la interfaz de usuario para una experiencia de navegación e interacción nueva e integrada. 
 

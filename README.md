@@ -33,7 +33,7 @@ Por otro lado, la remediación implica la adaptación de un medio existente para
 
 ## Re-descubriendo la hibridacion: Genshin Impact
 
-***Genshin Impact*** es un *videojuego de rol, aventura, y exploración en mundo abierto* desarrollado por *Mihoyo* para consolas, móviles y PC. Ofrece diferentes maneras de navegar e interactuar con el medio. Como viajero de otro mundo, te embarcas en una aventura para encontrar a la hermana que perdiste hace mucho tiempo, mientras descubres los misterios de *Teyvat*, del personaje principal y los que conforman la historia. 
+***Genshin Impact*** es un **videojuego de rol, aventura, y exploración en mundo abierto** desarrollado por **Mihoyo** para consolas, móviles y PC. Ofrece diferentes maneras de navegar e interactuar con el medio. Como viajero de otro mundo, te embarcas en una aventura para encontrar a la hermana que perdiste hace mucho tiempo, mientras descubres los misterios de ***Teyvat***, del personaje principal y los que conforman la historia. 
 
 Los personajes principales de esta historia tienen habilidades, personalidades y estilos de combate únicos, y los puedes conseguir junto a armas para ellos mediante la mecánica de monetización del ***gacha***, una moneda virtual. El juego también cuenta con un modo multijugador donde poder luchar contra monstruos, hacer misiones y explorar el mundo juntos a otros jugadores.
 

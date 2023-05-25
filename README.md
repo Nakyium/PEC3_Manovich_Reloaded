@@ -31,7 +31,7 @@ La multimedia combina diferentes tipos de medio en un mismo contexto, pero sin g
 Por otro lado, la remediación implica la adaptación de un medio existente para construir un nuevo medio, conservando algunas características pero también introduciendo cambios y novedades.
 
 
-## Re-descubriendo la hibridacion: <span style="color: green;">*Genshin Impact*</span>
+## Re-descubriendo la hibridacion: <font color=#0fb503>Genshin Impact</font> 
 
 ***Genshin Impact*** es un **videojuego de rol, aventura, y exploración en mundo abierto** desarrollado por **Mihoyo** para consolas, móviles y PC. Ofrece diferentes maneras de navegar e interactuar con el medio. Como viajero de otro mundo, te embarcas en una aventura para encontrar a la hermana que perdiste hace mucho tiempo, mientras descubres los misterios de ***Teyvat***, del personaje principal y los que conforman la historia. 
 

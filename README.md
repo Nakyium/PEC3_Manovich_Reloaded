@@ -50,7 +50,7 @@ League of Legends es un videojuego multijugador de arena de batalla en línea qu
 
 En las partidas normales y de competición, cada equipo está compuesto por cinco jugadores especializados en una línea entre las siguientes: Top, Jungla, Mid, ADC y Support. Los equipos se enfrentan en partidas estratégicas en un mapa virtual llamado "La grieta del invocador". El objetivo principal es destruir el nexo del equipo contrario, mientras se defiende el propio. Los jugadores compiten con un campeón que está asociado a una clase o rol que determina su estilo de juego en las partidas, utilizando estrategias y tácticas para superar a sus oponentes. 
 
-![Cultura Digital](C:\Users\Admin.DESKTOP-N01KG8L\Downloads\jhhin.PNG) 
+![Cultura Digital](https://img.freepik.com/free-photo/man-neon-suit-sits-chair-with-neon-sign-that-says-word-it_188544-27011.jpg?w=1380&t=st=1685021130~exp=1685021730~hmac=6e184946fa576dceacb98728d2379640982b940c232468385922b059212ba49e) 
 
 Las partidas clasificatorias (rankeds) en League of Legends son un modo de juego competitivo en el que los jugadores pueden enfrentarse entre sí para subir en el sistema de clasificación. Consta de distintas divisiones (como Hierro, Bronce, Plata, Oro, Platino, Diamante, Maestro, Gran Maestro y Challenger), cada una con diferentes rangos. Los jugadores están más enfocados en ganar y mejorar su clasificación. Esto implica un mayor nivel de estrategia, comunicación y coordinación con el equipo para tener éxito, ofreciendo la oportunidad de alcanzar rangos más altos y recibir recompensas al final de la temporada. 
 
@@ -62,6 +62,9 @@ La estética en League of Legends se caracteriza por combinar elementos visuales
 
 League of Legends es uno de los juego más populares en el ámbito de los esports, donde equipos profesionales compiten en partidas estratégicas para ganar torneos y campeonatos regionales e internacionales. El juego ha creado una comunidad global de jugadores reconocidos y admirados por una comunidad de espectadores apasionados, y su escena competitiva sigue creciendo y evolucionando.
 
+##Conclusion
+
+Genshin Impact y League of Legends son ejemplos destacados de hibridación de medios en los videojuegos y los deportes electrónicos. Ambos combinan diferentes técnicas de interfaz de usuario, manipulación de datos y estéticas visuales para ofrecer experiencias de juego únicas, divertidas y atractivas.
 
 ### Referencias y Bibliografía
 

@@ -18,16 +18,15 @@ Según Manovich, el software y el ordenador son herramientas fundamentales para 
 
 > “Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos.” (Manovich, 2013)
 
-Los medios híbridos en el contexto de los videojuegos son un buen ejemplo de ello, ya que fusionan diferentes tecnologías y elementos de diseño para crear experiencias interactivas únicas, donde el software y los ordenadores desempeñan un papel fundamental. Los videojuegos combinan elementos visuales, narrativos, de sonido y mecánicas de juego para ofrecer una forma de medio híbrido que permite a los jugadores sumergirse en mundos virtuales y participar activamente en la historia y la jugabilidad.
+Los medios híbridos en el contexto de los videojuegos son un buen ejemplo de ello, ya que fusionan diferentes tecnologías y elementos de diseño para crear experiencias interactivas únicas, donde el software y los ordenadores desempeñan un papel fundamental. Los videojuegos combinan elementos visuales, narrativos, de sonido y mecánicas de juego, para ofrecer una forma de medio híbrido que permite a los jugadores sumergirse en mundos virtuales y participar activamente en la historia y la jugabilidad.
 
-Por ello en este ensayo presentaré dos videojuegos que pertenecen a estos casos de hibridación del software, ***Genshin Impact*** y ***League of Legends***.
-
+Es por ello, que en este ensayo presentaré dos videojuegos que pertenecen a estos casos de hibridación del software, ***Genshin Impact*** y ***League of Legends***.
 
 ## Hibridación, multimedia y remediación
 
 Una hibridación se reconoce porque introduce nuevas formas de representar el mundo, introduciendo innovaciones y proporcionando diferentes formas de interacción y navegación.
 
-La multimedia combina diferentes tipos de medio en un mismo contexto, pero sin generar una fusión o interacción entre ellos, por ejemplo cada uno necesita abrir su propio recurso. En cambio, en la hibridación se da una fusión entre los elementos e interfaces, generando una experiencia nueva, diferente a la experimentación de los elementos por separado.
+La multimedia combina diferentes tipos de medio en un mismo contexto, pero sin generar una fusión o interacción entre ellos, por ejemplo, cada uno necesita abrir su propio recurso. En cambio, en la hibridación se da una fusión entre los elementos e interfaces, generando una experiencia nueva, diferente a la experimentación de los elementos por separado.
 
 > “El resultado de la hibridación no es tan solo la suma mecánica de componentes previos, sino una nueva «especie»” (Manovich, 2013)
 
@@ -36,9 +35,9 @@ Por otro lado, la remediación implica la adaptación de un medio existente para
 
 ## Re-descubriendo la hibridacion: Genshin Impact 
 
-***Genshin Impact*** es un **videojuego de rol, aventura, y exploración en mundo abierto** desarrollado por **Mihoyo** para consolas, móviles y PC. Ofrece diferentes maneras de navegar e interactuar con el medio. Como viajero de otro mundo, te embarcas en una aventura para encontrar a la hermana que perdiste hace mucho tiempo, mientras descubres los misterios de ***Teyvat***, del personaje principal y los que conforman la historia. 
+***Genshin Impact*** es un **videojuego de rol, aventura, y exploración en un mundo abierto**. Desarrollado por **Mihoyo** para consolas, móviles y PC. Ofrece diferentes maneras de navegar e interactuar con el medio. Como viajero de otro mundo, te embarcas en una aventura para encontrar a la hermana que perdiste hace mucho tiempo, mientras descubres los misterios de ***Teyvat***, del personaje principal y los que conforman la historia. 
 
-Los personajes principales de esta historia tienen habilidades, personalidades y estilos de combate únicos, y los puedes conseguir junto a armas para ellos mediante la mecánica de monetización del ***gacha***, una moneda virtual. El juego también cuenta con un modo multijugador donde poder luchar contra monstruos, hacer misiones y explorar el mundo juntos a otros jugadores.
+Los personajes principales de esta historia tienen habilidades, personalidades y estilos de combate únicos. Estos personajes junto a sus armas, los puedes conseguir mediante la mecánica de monetización del ***gacha***, una moneda virtual. El juego también cuenta con un modo multijugador donde poder luchar contra monstruos, hacer misiones y explorar el mundo juntos a otros jugadores.
 
 ![Cultura Digital](2021717143012.png) 
 
@@ -80,7 +79,7 @@ El juego utiliza algoritmos y estructuras de datos para gestionar la jugabilidad
 
 ![Cultura Digital](https://pixabay.com/get/g918f02d2d7fbffac1283e502c433d468f915a470330034d42f66f0437ea68cb5af5a22bc1225865d9cb68cdcb1f9d5a2_640.jpg) 
 
-La estética en ***League of Legends*** se caracteriza por combinar elementos visuales de fantasía, mitología, ciencia ficción y arte de cómic para crear una estética visual única que refleja el mundo y los personajes del juego. 
+La estética en ***League of Legends*** se caracteriza por combinar elementos visuales de fantasía, mitología, ciencia ficción y arte de cómic para crear una estética visual única que refleja el mundo y los personajes del juego. Además, la música y los efectos de sonido contribuyen a crear una atmósfera inmersiva y híbrida durante las partidas.
 
 ***League of Legends*** es uno de los juego más populares en el ámbito de los **esports**, donde equipos profesionales compiten en partidas estratégicas para ganar torneos y campeonatos regionales e internacionales. El juego ha creado una comunidad global de jugadores reconocidos y admirados por una comunidad de espectadores apasionados, y su escena competitiva sigue creciendo y evolucionando.
 

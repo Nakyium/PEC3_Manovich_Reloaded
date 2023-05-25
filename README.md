@@ -89,11 +89,11 @@ La estética en ***League of Legends*** se caracteriza por combinar elementos vi
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * ADELL, Ferran. Remediación, multimedia e hibridación de los medios. Disponible en: (http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
-* Hibridación: https://www.diggitmagazine.com/wiki/hybrid-media-system 
+* Chadwick, A. (2017). The hybrid media system: https://www.diggitmagazine.com/wiki/hybrid-media-system 
 * Genshin Impact: https://genshin.hoyoverse.com/es/game
-* Genshin Impact: https://es.wikipedia.org/wiki/Genshin_Impact
-* League of Legends (MOBA): https://es.wikipedia.org/wiki/Videojuego_multijugador_de_arena_de_batalla_en_l%C3%ADnea
-* League of Legends (tabla): https://earlygame.com/es/lol/ranking-sistema 
+* Genshin Impact. Wikipedia, La enciclopedia libre. 25 may 2023.: https://es.wikipedia.org/wiki/Genshin_Impact
+* Videojuego multijugador de arena de batalla en línea. Wikipedia, La enciclopedia libre. 23 may 2023. : https://es.wikipedia.org/wiki/Videojuego_multijugador_de_arena_de_batalla_en_l%C3%ADnea
+* League of Graphs, Distribución de rango (tabla): https://earlygame.com/es/lol/ranking-sistema 
 
 ### Recursos
 
